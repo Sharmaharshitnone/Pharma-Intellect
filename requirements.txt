@@ -1,6 +1,7 @@
 requests
 pandas
 sentence-transformers
-chromadb
 llama-index
 streamlit
+biopython
+chromadb
